@@ -1,4 +1,4 @@
-require_relative '/user'
+require_relative 'lib/user'
 
 class Student < User
 
